@@ -1,0 +1,45 @@
+Plant,Seed Price,Sell Price,Days,Yield,Profit,Reharvest,Harvests,Place,Continuous,Season
+Cherry (Tree),"3,400G",80G,28,-,-,-,-,General Store,Yes,Spring
+Apricot (Tree),"2,000G",50G,28,-,-,-,-,General Store,Yes,Spring
+Ancient Fruit,0G,750G,28,1,750G,8 Days,-,Gypsy Caravan,Yes,Spring
+Strawberry,100G,120G,8,1,20G,4 Days,5,Spring Egg Vestival,Yes,Spring
+Rhubarb,100G,220G,13,1,120G,13 Days,2,Desert Store,No,Spring
+Potato,50G,80G,6,1.25,50G,6 Days,4,General Store,No,Spring
+Cauliflower,80G,175G,12,1,95G,12 Days,2,General Store,No,Spring
+Green Bean,60G,40G,10,1,-20G,3 Days,6,General Store,Yes,Spring
+Kale,70G,110G,6,1,40G,6 Days,4,General Store,No,Spring
+Garlic,40G,60G,4,1,20G,4 Days,6,General Store,No,Spring
+Parsnip,20G,35G,4,1,15G,4 Days,6,General Store,No,Spring
+Blue Jazz,30G,50G,7,1,20G,7 Days,3,General Store,No,Spring
+Tulip,20G,30G,6,1,10G,6 Days,4,General Store,No,Spring
+Orange (Tree),"4,000G",100G,28,-,-,-,,General Store,Yes,Summer
+Peach (Tree),"6,000G",140G,28,-,-,-,,General Store,Yes,Summer
+Ancient Fruit,0G,750G,28,1,750G,8 Days,-,Gypsy Caravan,Yes,Summer
+Blueberry,80G,80G,13,3,160G,4 Days,4,General Store,Yes,Summer
+Starfruit,400G,800G,13,1,400G,13 Days,2,Desert Store,No,Summer
+Red Cabbage,100G,260G,9,1,160G,9 Days,3,General Store,No,Summer
+Hops,60G,25G,11,1,-35G,1 Days,17,General Store,Yes,Summer
+Melon,80G,250G,12,1,170G,12 Days,2,General Store,No,Summer
+Pepper,40G,40G,5,1,0G,3 Days,8,General Store,Yes,Summer
+Tomato,50G,60G,11,1,10G,4 Days,5,General Store,Yes,Summer
+Radish,40G,90G,6,1,50G,6 Days,4,General Store,No,Summer
+Poppy,100G,140G,7,1,40G,7 Days,3,General Store,No,Summer
+Spangle,50G,90G,8,1,40G,8 Days,3,General Store,No,Summer
+Wheat,10G,25G,4,1,15G,4 Days,6,General Store,No,Fall
+Corn,150G,50G,14,1,-100G,4 Days,4,General Store,Yes,Fall
+Ancient Fruit,0G,750G,28,1,750G,8 Days,-,Gypsy Caravan,Yes,Fall
+Apple (Tree),"4,000G",100G,28,-,-,-,,General Store,Yes,Fall
+Pomegranate (Tree),"6,000G",140G,28,-,-,-,,General Store,Yes,Fall
+Cranberry,240G,130G,7,2,20G,5 Days,5,General Store,Yes,Fall
+Pumpkin,100G,320G,13,1,220G,13 Days,2,General Store,No,Fall
+Grape,60G,80G,10,1,20G,3 Days,6,General Store,Yes,Fall
+Artichoke,30G,160G,8,1,130G,8 Days,3,General Store,No,Fall
+Beet,20G,100G,6,1,80G,6 Days,4,Desert Store,No,Fall
+Eggplant,20G,60G,5,1,40G,5 Days,5,General Store,Yes,Fall
+Amaranth,70G,150G,7,1,80G,7 Days,3,General Store,No,Fall
+Yam,60G,160G,10,1,100G,10 Days,2,General Store,No,Fall
+Bok Choy,50G,80G,4,1,30G,4 Days,6,General Store,No,Fall
+Fairy Rose,200G,290G,12,1,90G,12 Days,2,General Store,No,Fall
+Sunflower,50G,80G,8,1,30G,8 Days,3,General Store,No,Fall
+Corn,150G,50G,14,1,-100G,4 Days,4,General Store,Yes,Fall
+Sweet Gem Berry,"1,000G","3,000G",24,1,"2,000G",24 Days,1,Gypsy Caravan,No,Fall
